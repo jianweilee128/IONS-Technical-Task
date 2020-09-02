@@ -7,8 +7,8 @@
 
 # Learning points
 
-Learned that it is not that difficult to create a webpage
-Learned how to host on github pages
+* Learned that it is not that difficult to create a webpage<br/>
+* Learned how to host on github pages
 
 # Your thoughts on this endeavour
 
