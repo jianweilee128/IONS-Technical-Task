@@ -93,7 +93,7 @@ a:hover {
 @media only screen and (max-width: 600px) {
   .contact-table {
     align-items: center;
-    font-size: 1rem;
+    font-size: 0.7rem;
   }
   .table-header {
     padding: 1rem 1rem;
