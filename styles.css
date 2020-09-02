@@ -96,6 +96,9 @@ a:hover {
     font-size: 0.7rem;
   }
   .table-header {
-    padding: 1rem 1rem;
+    padding: 1rem 0;
+  }
+  .table-description {
+    padding: 0 0.5rem;
   }
 }
